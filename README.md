@@ -19,6 +19,6 @@ On the way we will make a lot of lots of smaller projects and experiments to sat
 ![FinalGoalFantasyDrone](http://howtoexitthematrix.com/wp-content/uploads/2015/10/mars.jpg)
 
 
-*This project is sponsored courtesy [Helsinova AB](http://howtoexitthematrix.com/wp-content/uploads/2015/10/mars.jpg)*
+*This project is sponsored courtesy [Helsinova AB](http://www.helsinova.se)*
 
 > Written with [StackEdit](https://stackedit.io/).
