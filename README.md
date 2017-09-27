@@ -12,9 +12,11 @@ beholder, is to exercise ***how*** and having lot's of _fun_ with technology.
 * *Control is Math*
 * *Programming is secondary*
 
-The final aim is to design a **Zeppelin Drone** capable of autonomous flying indoors in public spaces carrying illuminated billboards or signs.
+The final aim is to design a **Zeppelin Drone** capable of autonomous flying indoors
+in public spaces carrying illuminated billboards or signs.
 
-On the way we will make a lot of lots of smaller projects and experiments to satisfy that each step in the ***how*** is well grounded.
+On the way we will make a lot of standalone experiments/labs and probably some
+smaller projects and  experiments to satisfy that each step in the ***how*** is well grounded.
 
 ![FinalGoalFantasyDrone](http://howtoexitthematrix.com/wp-content/uploads/2015/10/mars.jpg)
 
