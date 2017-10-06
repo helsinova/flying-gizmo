@@ -22,13 +22,12 @@ some smaller projects and experiments to satisfy that each step in the
 
 ![FinalGoalFantasyDrone](http://howtoexitthematrix.com/wp-content/uploads/2015/10/mars.jpg)
 
-[[https://raw.githubusercontent.com/helsinova/flying-gizmo/master/doc/PC_based_setup.svg]]
+![URL based raw](https://raw.githubusercontent.com/helsinova/flying-gizmo/master/doc/PC_based_setup.svg)
 
-[[doc/PC_based_setup.svg]]
+![in src repo](doc/PC_based_setup.svg)
 
-[[https://raw.githubusercontent.com/helsinova/flying-gizmo/master/doc/PC_based_setup.svg]]
 
-[[wiki/images/Dunkers_kulturhus.jpg]]
+![in wiki repo](wiki/images/Dunkers_kulturhus.jpg)
 
 *This open project is sponsored by [Helsinova AB](http://www.helsinova.se)*
 
