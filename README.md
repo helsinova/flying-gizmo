@@ -29,5 +29,10 @@ some smaller projects and experiments to satisfy that each step in the
 
 ![in wiki repo](wiki/images/Dunkers_kulturhus.jpg)
 
+![URL from other site](http://www.helsinova.se/~michael/PC_based_setup.svg)
+
+** Why is Github so sucky?** Answer: FOSS have been invaded by IT-Muppets (a.k.a.
+*Muppets*).
+
 *This open project is sponsored by [Helsinova AB](http://www.helsinova.se)*
 
