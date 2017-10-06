@@ -26,5 +26,9 @@ some smaller projects and experiments to satisfy that each step in the
 
 [[doc/PC_based_setup.svg]]
 
+[[https://raw.githubusercontent.com/helsinova/flying-gizmo/master/doc/PC_based_setup.svg]]
+
+[[wiki/images/Dunkers_kulturhus.jpg]]
+
 *This open project is sponsored by [Helsinova AB](http://www.helsinova.se)*
 
